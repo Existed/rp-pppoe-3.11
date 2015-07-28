@@ -1,3 +1,23 @@
+gui/Makefile
+gui/pppoe-wrapper
+gui/tkpppoe
+scripts/pppoe-connect
+scripts/pppoe-init
+scripts/pppoe-init-suse
+scripts/pppoe-init-turbolinux
+scripts/pppoe-setup
+scripts/pppoe-start
+scripts/pppoe-stop
+src/Makefile
+src/config.h
+src/config.log
+src/config.status
+src/libevent/Makefile
+src/pppoe
+src/pppoe-relay
+src/pppoe-server
+src/pppoe-sniff
+
 #
 # NOTE! Don't add files that are generated in specific
 # subdirectories here. Add them in the ".gitignore" file
